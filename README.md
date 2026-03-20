@@ -1,8 +1,7 @@
 # Welcome to AI-DS-Code-Vault, Folks!!
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=+Name+-+Satyam+Chandra;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=+AI+%26+DS+Code+Vault;+Assignment+Solutions+by+Satyam+Chandra;" alt="Typing SVG" />
 </p>
 
 <div style="background-color: #f8f9fa; padding: 25px; border-radius: 12px; border-left: 6px solid #4a90e2; box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
@@ -15,3 +14,49 @@
         <a href="mailto:chandrasatyam31@gmail.com" style="text-decoration: none; color: white; background-color: #e74c3c; padding: 8px 16px; border-radius: 6px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(231,76,60,0.3);">✉️ Email</a>
     </div>
 </div>
+
+---
+
+## 🚀 Repository Overview
+
+This repository contains a comprehensive collection of AI and Data Science assignments, projects, and experiments. Each module is carefully implemented in Jupyter Notebooks (`.ipynb`) with detailed explanations, visualizations, and modular code.
+
+### 📂 Assignment Modules
+
+| Module | Assignment Title | Key Technologies |
+| :--- | :--- | :--- |
+| **00** | [Walmart Sales Analysis](file:///00Walomart_Assignment/Walmart.ipynb) | Pandas, Seaborn, Statsmodels |
+| **01** | [Intro to Deep Learning](file:///01ntroduction%20To%20Deep%20Learning%20–%20Assignment%20–%20Submit%20Here/Introduction_to_Deep_Learning.ipynb) | Theory, MCQs, Foundations |
+| **02** | [Neural Network Basics](file:///02Introduction%20To%20Neural%20Networks%20–%20Assignment%20–%20Submit%20Here/Introduction_to_Neural_Networks.ipynb) | NumPy, Backprop, Manual Gradient |
+| **03** | [Natural Language Processing](file:///03Introduction%20To%20NLP%20–%20Assignment%20–%20Submit%20Here/Introduction_to_NLP.ipynb) | TensorFlow, LSTM, Tokenization |
+| **04** | [Customer Churn Prediction](file:///04Capstone%20Project%20–%20Customer%20Churn%20(AI)%20–%20Submit%20Here/Customer_Churn_Analysis.ipynb) | Keras, Binary Classification, EDA |
+| **05** | [MNIST Digit Classification](file:///05Introduction%20To%20NN%20Frameworks%20–%20Assignment%20–%20Submit%20Here/MNIST_Classification.ipynb) | TensorFlow, Flatten, Softmax |
+| **06** | [Fashion MNIST FCNN](file:///06Introduction%20To%20Fully%20Connected%20NN%20–%20Assignment%20–%20Submit%20Here/Fashion_MNIST_Classification.ipynb) | FCNN, Image Processing, Categorical XE |
+| **07** | [Cats vs Dogs CNN](file:///07Introduction%20To%20Convolutional%20NN%20–%20Assignment%20–%20Submit%20Here/Cats_vs_Dogs_CNN.ipynb) | CNN, Conv2D, MaxPool, Augmentation |
+| **08** | [Post-Modelling Activities](file:///08Post%20Modelling%20Activities%20–%20Assignment%20–%20Submit%20Here/Post_Modelling_Activities.ipynb) | TensorBoard, Model Saving/Loading |
+| **09** | [Transfer Learning (VGG16)](file:///09Learning%20From%20Pre-Built%20Models%20–%20Assignment%20–%20Submit%20Here/Transfer_Learning_VGG16.ipynb) | VGG16, Feature Extraction, Fine-tuning |
+| **10** | [RNN Sentiment Analysis](file:///10Recurrent%20Neural%20Networks%20–%20Assignment%20–%20Submit%20Here/IMDB_Sentiment_RNN.ipynb) | SimpleRNN, IMDB Dataset, Padding |
+
+---
+
+## 🛠️ Features
+
+- **Standardized Headers**: All notebooks feature a consistent, professional profile header.
+- **Modular Code**: Logic is separated into clear steps (Preprocessing, Modeling, Evaluation).
+- **Interactive Visualizations**: Comprehensive plots using Matplotlib and Seaborn.
+- **Advanced DL Architectures**: Implementations ranging from simple MLPs to complex CNNs and RNNs.
+
+## ⚙️ Setup & Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/C0DER-B0T/AI-DS-Code-Vault.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
+   ```
+3. Open any `.ipynb` file in Jupyter Lab or VS Code to explore the code!
+
+---
+<p align="center">Made with ❤️ by Satyam Chandra</p>

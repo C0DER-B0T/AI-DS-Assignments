@@ -2,7 +2,7 @@
 
 # How to Unlock the Content ?
 
-To get instant access to the private assignment vault, complete these three simple steps:
+Follow these three simple steps:
 
 **Step 1: Drop a Star**
 Scroll to the top right of this page and click the **Star** (⭐) button on this repository.

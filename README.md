@@ -15,7 +15,9 @@ Click the secure link below to verify your star. It will ask you to log in with 
 Once verified, the system will automatically invite you to the private `AI-DS-Code-Vault` repository as a collaborator. Check your email or your GitHub notifications to accept the invite!
 
 <hr>
+
 # OR
+
 <br>
 
 ### Complete 20 Stars on this Repo it will be there instantely :)

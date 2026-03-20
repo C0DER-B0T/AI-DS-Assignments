@@ -3,7 +3,8 @@
 <b>
  
  1. Star this Repo
- 2. Login and Authinticate Your github account on
+ 2. Login and Authinticate Your github account on **[Here](https://assignmentstar.streamlit.app)**
+ 
  3. You will find it 
 </b>
 

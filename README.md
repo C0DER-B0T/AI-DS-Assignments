@@ -8,15 +8,6 @@
  3. You will find it 
 </b>
 
-
-# 🚀 AI & ML Assignment Solutions Vault
-
-Welcome! If you are working through the recent assignments and hitting a wall, you are in the right place. 
-
-I know many of us have been having trouble with these tasks, so I decided to build and share my solutions to help everyone out. However, to keep things organized (and to help me unlock the GitHub Starstruck badge! ⭐), the actual code is kept in a private, locked repository.
-
-Don't worry—getting access is completely free and fully automated. Just follow the steps below!
-
 ---
 
 ### How to Unlock the Code

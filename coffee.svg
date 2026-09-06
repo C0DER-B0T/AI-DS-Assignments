@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60">
+  <style>
+    .btn { fill: #0d1117; stroke: #3399ff; stroke-width: 2; rx: 25; }
+    .glow { fill: none; stroke: #3399ff; stroke-width: 4; rx: 25; filter: blur(4px); opacity: 0.7; }
+    .text { font-family: 'Segoe UI', Roboto, Helvetica, sans-serif; font-size: 16px; font-weight: bold; fill: #ffffff; letter-spacing: 0.5px;}
+    @keyframes pulse {
+      0% { opacity: 0.4; stroke-width: 3px; }
+      50% { opacity: 1; stroke-width: 6px; }
+      100% { opacity: 0.4; stroke-width: 3px; }
+    }
+    .animated-glow { animation: pulse 2s infinite; }
+  </style>
+  <rect class="glow animated-glow" x="5" y="5" width="210" height="50" />
+  <rect class="btn" x="5" y="5" width="210" height="50" />
+  <text class="text" x="110" y="35" text-anchor="middle">☕ Buy Me a Coffee</text>
+</svg>

@@ -66,4 +66,12 @@ This repository contains a comprehensive collection of AI and Data Science assig
 3. Open any `.ipynb` file in Jupyter Lab or VS Code to explore the code!
 
 ---
+
+<div align="center">
+  <a href="https://pages.razorpay.com/coffeeforsatyam" target="_blank">
+    <img src="coffee.svg" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+
 <p align="center">Made with ❤️ by Satyam Chandra</p>

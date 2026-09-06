@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=+AI+%26+DS+Code+Vault;+Assignment+Solutions+by+Satyam+Chandra;" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="https://pages.razorpay.com/coffeeforsatyam" target="_blank">
+    <img src="coffee.svg" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+
 <div style="background-color: #f8f9fa; padding: 25px; border-radius: 12px; border-left: 6px solid #4a90e2; box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
     <h2 style="margin: 0; color: #2c3e50; font-size: 28px;">Satyam Chandra</h2>
     <p style="margin: 5px 0 20px 0; color: #7f8c8d; font-size: 16px; font-style: italic;">AI & ML Developer</p>

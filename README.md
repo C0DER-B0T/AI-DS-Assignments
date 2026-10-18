@@ -43,6 +43,9 @@ This repository contains a comprehensive collection of AI and Data Science assig
 | **08** | [Post-Modelling Activities](file:///08Post%20Modelling%20Activities%20–%20Assignment%20–%20Submit%20Here/Post_Modelling_Activities.ipynb) | TensorBoard, Model Saving/Loading |
 | **09** | [Transfer Learning (VGG16)](file:///09Learning%20From%20Pre-Built%20Models%20–%20Assignment%20–%20Submit%20Here/Transfer_Learning_VGG16.ipynb) | VGG16, Feature Extraction, Fine-tuning |
 | **10** | [RNN Sentiment Analysis](file:///10Recurrent%20Neural%20Networks%20–%20Assignment%20–%20Submit%20Here/IMDB_Sentiment_RNN.ipynb) | SimpleRNN, IMDB Dataset, Padding |
+| **11** | [Online Retail Customer Analytics](file:///11Capstone-Dataset/Capstone-Dataset.ipynb) | RFM Analysis, K-Means Clustering, Silhouette |
+| **12** | [COVID-19 Trend Analysis](file:///12Project-COVID-19-Analysis/Project-COVID-19-Analysis.ipynb) | Pandas, Plotly Visualizations, Facebook Prophet |
+| **13** | [Netflix Movie Recommendation System](file:///13Netflix-DataSet/Netflix-DataSet.ipynb) | Collaborative Filtering, SVD Matrix Factorization, EDA |
 
 ---
 
@@ -50,8 +53,8 @@ This repository contains a comprehensive collection of AI and Data Science assig
 
 - **Standardized Headers**: All notebooks feature a consistent, professional profile header.
 - **Modular Code**: Logic is separated into clear steps (Preprocessing, Modeling, Evaluation).
-- **Interactive Visualizations**: Comprehensive plots using Matplotlib and Seaborn.
-- **Advanced DL Architectures**: Implementations ranging from simple MLPs to complex CNNs and RNNs.
+- **Interactive Visualizations**: Comprehensive plots using Matplotlib, Seaborn, and Plotly.
+- **Advanced DL Architectures & ML Algorithms**: Implementations ranging from simple MLPs, CNNs, RNNs to Time Series Forecasting (Prophet) and Recommendation Systems (SVD).
 
 ## ⚙️ Setup & Installation
 
@@ -61,7 +64,7 @@ This repository contains a comprehensive collection of AI and Data Science assig
    ```
 2. Install dependencies:
    ```bash
-   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
+   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn plotly prophet scipy
    ```
 3. Open any `.ipynb` file in Jupyter Lab or VS Code to explore the code!
 

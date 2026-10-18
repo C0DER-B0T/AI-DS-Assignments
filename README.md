@@ -57,7 +57,7 @@ This repository contains a comprehensive collection of AI and Data Science assig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/C0DER-B0T/AI-DS-Code-Vault.git
+   git clone https://github.com/C0DER-B0T/AI-DS-Assignments.git
    ```
 2. Install dependencies:
    ```bash
